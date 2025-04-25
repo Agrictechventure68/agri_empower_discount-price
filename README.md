@@ -1,5 +1,5 @@
 # agri_empower_discount-price
-Applying this discounting logic to my "agri_empower" case study. Imagine within my agri_empower_learning app, you might have a section where farmers can access resources or perhaps even purchase tools or seeds at discounted rates based on certain criteria (e.g., being a long-term user, participating in specific programs).
+Applying this discounting logic to my "agri_empower" case study. Imagine within my agri_empower_learning app, I might have a section where farmers can access resources or perhaps even purchase tools or seeds at discounted rates based on certain criteria (e.g., being a long-term user, participating in specific programs).
 
 Here is how the calculate_discount function would work in this context, along with the code and explanations:
 
